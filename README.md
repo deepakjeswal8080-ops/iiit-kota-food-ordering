@@ -250,7 +250,7 @@ Built as a PHP + MySQL project for a functional grocery shop billing and stock m
 
 ## 🌐 Live Demo
 
-🔗 [ayangrocery.infinityfreeapp.com](http://ayangrocery.infinityfreeapp.com)
+🔗 https://iiitkotafood.page.gd/
 
 ---
 

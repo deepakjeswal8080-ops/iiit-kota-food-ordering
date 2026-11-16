@@ -242,7 +242,7 @@ Logout (logout.php)
 
 ## 👨‍💻 Author
 
-**Ayan Ghosh**
+**deepak jaiswar**
 
 Built as a PHP + MySQL project for a functional grocery shop billing and stock management system.
 

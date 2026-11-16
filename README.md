@@ -1,4 +1,4 @@
-# 🛒 Grocery Billing System
+# 🛒IIIT Kota Food Ordering
 
 A simple and complete **web-based grocery billing system** built with PHP, MySQL, and JavaScript. This system allows shop owners to manage product stock and generate printable customer bills instantly.
 
